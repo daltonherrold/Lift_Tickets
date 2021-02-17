@@ -46,7 +46,7 @@ Below are a list of resorts that this program will work at. When entering the mo
 - requests-html
 
 # Installation
-Git pull the package and then use pip to install the requirements. Then see the following section for how to run the script/ 
+Git pull the package and then use pip to install the requirements. Then see the following section for how to run the script.
 
 # Usage
 Run `lift_tickets.py` as you would any python script. The different options avaliable are shown below. 
