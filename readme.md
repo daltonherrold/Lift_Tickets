@@ -1,5 +1,5 @@
 # Introduction
-Do you want to get ski tickets at a vail resort mountian? Are they already sold out for the day that you want to go? If you answered yes to both of the questions, then you are in the right place!
+Do you want to get ski tickets at a vail resort mountain? Are they already sold out for the day that you want to go? If you answered yes to both of the questions, then you are in the right place!
 
 This project will notify you when there are tickets available at the mountain and date that you choose. 
 
