@@ -46,7 +46,12 @@ Below are a list of resorts that this program will work at. When entering the mo
 - requests-html
 
 # Installation
-Git pull the package and then use pip to install the requirements. Then see the following section for how to run the script.
+Git clone the project
+```
+git clone https://github.com/daltonherrold/Lift_Tickets.git
+cd Lift_Tickets
+```
+That is it! Check out the section below for how to run the script.
 
 # Usage
 Run `lift_tickets.py` as you would any python script. Here is an example, including a phone number and an email.
