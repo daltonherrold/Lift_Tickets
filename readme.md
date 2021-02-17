@@ -49,7 +49,11 @@ Below are a list of resorts that this program will work at. When entering the mo
 Git pull the package and then use pip to install the requirements. Then see the following section for how to run the script.
 
 # Usage
-Run `lift_tickets.py` as you would any python script. The different options avaliable are shown below. 
+Run `lift_tickets.py` as you would any python script. Here is an example, including a phone number and an email.
+
+`python3 lift_tickets.py libertymountainresort 02/21/2021 -p 5555555555 -c att -e fake@gmail.com`
+
+The output of help is shown below.
 
 ```
 usage: lift_tickets.py [options] mountain date
